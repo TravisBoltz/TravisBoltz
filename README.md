@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="fariduoubdamusah@gmail.com">
+  <a href="mailto:fariduoubdamusah@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="[https://linkedin.com/in/pedro-sales-muniz](https://www.linkedin.com/in/fom1575/)" target="_blank">
