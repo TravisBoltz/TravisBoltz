@@ -24,7 +24,7 @@
   <a href="mailto:fariduoubdamusah@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[https://linkedin.com/in/pedro-sales-muniz](https://www.linkedin.com/in/fom1575/)" target="_blank">
+  <a href="[https://linkedin.com/in/fom1575](https://www.linkedin.com/in/fom1575/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 <!--   <a href="https://TravisBoltz.github.io" target="_blank">
@@ -58,6 +58,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats-streak.vercel.app/?user=TravisBoltz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=TravisBoltz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravisBoltz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
