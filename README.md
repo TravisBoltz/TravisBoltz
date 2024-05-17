@@ -12,7 +12,7 @@
  
  🔭I'm a passionate developer and junior data analyst with a knack for building web applications and deriving insights from data. 
  
- 🌱Currently, I'm honing my skills in Next.js for frontend development and diving deep into using Firebase, MongoDB, and Superbase for the backend task. I am confident that utilizing these tools will greatly bolster my proficiency in web development and enable me to effectively manage real-time databases.
+ 🌱Currently, I'm honing my skills in Next.js for frontend development and diving deep into using Firebase for the backend task. I am confident that utilizing these tools will greatly bolster my proficiency in web development and enable me to effectively manage real-time databases.
 
 💬 Feel free to ask me about my ongoing projects, my experience with the tech stacks I'm familiar with in my readme, or anything [here](https://github.com/TravisBoltz/TravisBoltz/issues)**
 
