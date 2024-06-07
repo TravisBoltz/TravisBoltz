@@ -12,7 +12,7 @@
  
  🔭I'm a passionate developer and junior data analyst with a knack for building web applications and deriving insights from data. 
  
- 🌱Currently, I'm honing my skills in Next.js for frontend development and diving deep into using Firebase for the backend task. I am confident that utilizing these tools will greatly bolster my proficiency in web development and enable me to effectively manage real-time databases.
+ 🌱Currently, I'm honing my skills in Next.js for frontend development and diving deep into using Firebase for the backend task. I am confident that utilizing these tools will greatly bolster my proficiency in web development and enable me to manage real-time databases effectively.
 
 💬 Feel free to ask me about my ongoing projects, my experience with the tech stacks I'm familiar with in my readme, or anything [here](https://github.com/TravisBoltz/TravisBoltz/issues)**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,jquery,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,flutter" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,nextjs" /><br>
 </div>
 
 <br/>
