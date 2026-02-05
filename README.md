@@ -1,4 +1,4 @@
-<h1 align="center">Musah Faridu Oubda</h1>
+<h1 align="center">Faridu Oubda Musah</h1>
 <p align="center">
   Web & Mobile App Developer • Data Analyst
 </p>
